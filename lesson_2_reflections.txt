@@ -1,0 +1,8 @@
+What happens when you initialize a repository? Why do you need to do it?
+
+Initializing a repo makes it known that its a git repo. We need it to perform git operation on it. 
+
+How is the staging area different from the working directory and the repository? What value do you think it offers?
+
+Staging area refers to the component where we can put in the files we selected to commit. The value it offers is that we don’t need to select all the files and directories for the commit. We can be flexible in our choice.
+
